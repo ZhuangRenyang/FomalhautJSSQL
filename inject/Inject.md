@@ -41,10 +41,13 @@ inject:
 
 ## 1. 准备工作
 首先在 Github 上创建一个公开仓库，放入相关文件，例如：
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/b61299c2-6d09-43f6-bd03-4331645fc862)
 
 点击仓库右侧的`Create a new release`按钮：
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/7c56683a-c7ff-43f7-8649-c921ac2fee5c)
 
 写一个版本号，点击`Publish release`提交。
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/f9723acc-596c-47c2-8009-0c9e5c97c50b)
 
 ## 2. 访问方式
 ### 1. 根据版本号访问
@@ -79,4 +82,5 @@ inject:
 
 例如：
 ```https://cdn.jsdelivr.net/gh/lzxjack/cdn@1.0.0/```
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/294dc267-4269-4b94-9ca5-1e23d9eb82f5)
 
