@@ -2,10 +2,13 @@
 
 ## 1. 准备工作
 首先在 Github 上创建一个公开仓库，放入相关文件，例如：
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/9a5a12d3-97bc-4467-9099-91cb2e09eb5e)
 
 点击仓库右侧的`Create a new release`按钮：
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/d19f4e08-0240-4013-a5e8-d8d6bc8d923e)
 
 写一个版本号，点击`Publish release`提交。
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/b1726036-3f90-435c-881a-ede01129b0be)
 
 ## 2. 访问方式
 ### 1. 根据版本号访问
@@ -40,4 +43,5 @@
 
 例如：
 ```https://cdn.jsdelivr.net/gh/lzxjack/cdn@1.0.0/```
+![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/681d0e97-8ea8-49b5-a8c0-bf23c6a08e14)
 
