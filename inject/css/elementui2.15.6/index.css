@@ -12,15 +12,14 @@
 }
 
 @font-face {
-    font-family: element-icons;
-    src: url(https://ovoz.cn/font/fonts/element-icons.woff) format("woff"), url(https://ovoz.cn/font/fonts/element-icons.ttf) format("truetype");
+    font-family: sans-serif;
     font-weight: 400;
     font-display: "auto";
     font-style: normal
 }
 
 [class*=" el-icon-"], [class^=el-icon-] {
-    font-family: element-icons !important;
+    font-family: sans-serif !important;
     speak: none;
     font-style: normal;
     font-weight: 400;
@@ -2462,7 +2461,7 @@
 .el-select-dropdown.is-multiple .el-select-dropdown__item.selected::after {
     position: absolute;
     right: 20px;
-    font-family: element-icons;
+    font-family: sans-serif;
     content: "\e6da";
     font-size: 12px;
     font-weight: 700;
