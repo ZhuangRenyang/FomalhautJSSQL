@@ -1,3 +1,4 @@
+```yml
 ## # Inject
  Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
  插入代码到头部 </head> 之前 和 底部 </body> 之前
@@ -83,4 +84,4 @@ inject:
 例如：
 ```https://cdn.jsdelivr.net/gh/lzxjack/cdn@1.0.0/```
 ![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/294dc267-4269-4b94-9ca5-1e23d9eb82f5)
-
+```
