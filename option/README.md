@@ -1,3 +1,4 @@
+```yml
 # CDN
 # Don't modify the following settings unless you know how they work
 # 非必要请不要修改
@@ -71,3 +72,4 @@ CDN:
     # prismjs_autoloader: https://cdn1.tianli0.top/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
     coin_js: /js/coin.js
     coin_css: /css/coin.css
+```
