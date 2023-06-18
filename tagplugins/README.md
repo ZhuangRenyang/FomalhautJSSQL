@@ -1,3 +1,21 @@
+```yml
+# 标签外挂
+# tag-plugins-plus
+# see https://akilar.top/posts/615e2dec/
+tag_plugins:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  issues: false #issues标签开关
+  link:
+    placeholder: "/assets/coffee.png" #link_card标签默认的图标图片
+  CDN:
+    anima: https://cdn.jsdelivr.net/gh/ZhuangRenyang/FomalhautJSSQL@1.0.7/tagplugins/lib/assets/font-awesome-animation.min.css # https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖
+    jquery: https://cdn.staticfile.org/jquery/3.6.3/jquery.min.js #issues标签依赖
+    issues: https://cdn.jsdelivr.net/gh/ZhuangRenyang/FomalhautJSSQL@1.0.7/tagplugins/lib/assets/issues.js # https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖
+    carousel: https://cdn.jsdelivr.net/gh/ZhuangRenyang/FomalhautJSSQL@1.0.7/tagplugins/lib/assets/carousel-touch.js # https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js
+    tag_plugins_css: https://cdn.jsdelivr.net/gh/ZhuangRenyang/FomalhautJSSQL@1.0.7/tagplugins/lib/tag_plugins.css # https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css
+```
+
 # hexo-butterfly-tag-plugins-plus
 
 给`hexo-theme-butterfly`添加 [大量外挂标签](https://akilar.top/posts/615e2dec/)
