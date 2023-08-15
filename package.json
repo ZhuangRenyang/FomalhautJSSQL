@@ -1,0 +1,19 @@
+{
+  "name": "fomalhautjssql",
+  "version": "1.0.1",
+  "description": "首先在 Github 上创建一个公开仓库，放入相关文件，例如：\r ![image](https://github.com/ZhuangRenyang/FomalhautJSSQL/assets/116170751/9a5a12d3-97bc-4467-9099-91cb2e09eb5e)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuangRenyang/FomalhautJSSQL.git"
+  },
+  "author": "zhuangrenyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuangRenyang/FomalhautJSSQL/issues"
+  },
+  "homepage": "https://github.com/ZhuangRenyang/FomalhautJSSQL#readme"
+}
